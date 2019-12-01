@@ -1,0 +1,29 @@
+Doctor Number,Forename,Surname,Clinic,Address,City,Specialty,Salary,Joining date
+52001,Dr. Joseph P,Cranley,Alvarado Medical Plaza,5555 Reservoir Dr. Ste. 114,San Diego,Garnacologist,92120,10/01/2018
+52010,Dr. Brian,Walsh,Banner Cancer Center,1900 Mowry Ave. Ste. 408,Fremont,Garnacologist,94538,11/01/2018
+52011,Dr. Wadgy,Mitry,Banner Cancer Center,1900 Mowry Ave. Ste. 408,Fremont,Oncologist,80631,12/01/2018
+52012,Dr. Catherine,Mullan,Banner Cancer Center,1900 Mowry Ave. Ste. 408,Fremont,Cardiology,33844,13/01/2018
+52014,Dr. John,Veale,Banner Cancer Center,1900 Mowry Ave. Ste. 408,Fremont,Cardiology,33308,14/01/2018
+52015,Dr. Stephen,Mathews,Broward Oncology Associates,6405 N. Federal Highway Ste. 300B,Ft. Lauderdale,Cardiology,33308,15/01/2018
+52016,Dr. Francis,Balmer,Broward Oncology Associates,6405 N. Federal Highway Ste. 300B,Ft. Lauderdale,Geriatrics,33180,22/11/2008
+52021,Dr. Karl,Kavanagh,Broward Oncology Associates,6405 N. Federal Highway Ste. 300B,Ft. Lauderdale,Gastroenterology,30046,17/01/2028
+52022,Dr. Fiona,Mcgoldrick,Broward Oncology Associates,6405 N. Federal Highway Ste. 300B,Ft. Lauderdale,Gastroenterology,60477,18/01/2018
+52025,Dr. Denis,Gaffney,Cancer & Transplant Consultants,332 W. Broadway #217,Louisville,Radiology,40202,22/11/2008
+52028,Dr. Donal,Sheehan,Cancer & Transplant Consultants,332 W. Broadway #217,Louisville,Geriatrics,48101,20/01/2018
+52038,Dr. Donal,Sheehan,Columbus Hematology & Oncology,5041 N. Royal Dr. Ste. 1,Traverse City,Sports medicine,49684,21/01/2012
+52029,Dr. Ronan,Keogan,Columbus Hematology & Oncology,5041 N. Royal Dr. Ste. 1,Traverse City,Sports medicine,39705,22/01/2011
+52019,Dr. Wojciech Jan,Wawrzynek,Digestive Disease & Cancer Institute,34653 US Highway 19N,Palm Harbor,Cardiology,34684,23/01/2011
+52006,Dr. Tony,Macdonald,East County Hematology/Oncology,55555 Reservoir Dr. Ste. 306,San Diego,Thoracic surgery,92120,24/01/2018
+52008,Dr. Siobhan,Kierans,East County Hematology/Oncology,55555 Reservoir Dr. Ste. 306,San Diego,Sports medicine,93436,25/01/2018
+52009,Dr. Rita,Connolly,East County Hematology/Oncology,55555 Reservoir Dr. Ste. 306,San Diego,Thoracic surgery,96001,26/01/2012
+52017,Dr. Jennifer,Fitzpatrick,Florida Oncology,6405 North Federal Hwy. Ste. 300B,Ft. Lauderdale,Thoracic surgery,33308,22/11/2008
+52023,Dr. Karen,Palmer,"Hematology & Oncology Center, PLLC",17732 Oak Park Ave. Ste. E,Tinley Park,Sports medicine,60477,28/01/2018
+52024,Dr. Marina,Curran,"Hematology & Oncology Center, PLLC",17732 Oak Park Ave. Ste. E,Tinley Park,Garnacologist,42503,22/11/2008
+52002,Dr. Phillip,Sheeran Purcell,Integrative Cancer & Medical,2204 S. El Camino Real. Ste. 104,Oceanside,Garnacologist,92054,30/01/2018
+52004,Dr. Anthony,O'Connor,Integrative Cancer & Medical,2204 S. El Camino Real. Ste. 104,Oceanside,Cardiology,90212,31/01/2018
+52005,Dr. Rita,Brennan,Integrative Cancer & Medical,2204 S. El Camino Real. Ste. 104,Oceanside,Garnacologist,94558,01/02/2018
+52007,Dr. Patrick,Brophy,Integrative Cancer & Medical,2204 S. El Camino Real. Ste. 104,Oceanside,Sports medicine,92801,22/11/2008
+52000,Dr. Sandra,Dodson,Kachemak Bay Medical Clinic,4201 Bartlett St. Suite 202,Homer,Cardiology,99603,03/02/2018
+52039,Dr. Wojciech Jan,Wawrzynek,Oncology/Hematology Care Center,501 Riverside Dr.,Waycross,Thoracic surgery,31501,04/02/2018
+52020,Dr. Anne,O'Brien,Rockdale/Newton Hematology/Oncology,4139 Baker St,Covington,Sports medicine,30014,22/11/2008
+
