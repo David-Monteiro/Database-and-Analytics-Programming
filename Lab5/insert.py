@@ -46,7 +46,7 @@ except IOError:
     print("No data available")
 except (Exception, psycopg2.Error) as error :
     if(connection):
-        print("Failed to insert record into mobile table", error)
+        print("Failed to insert record into tables", error)
 finally:
     if(connection):
         cursor.close()
